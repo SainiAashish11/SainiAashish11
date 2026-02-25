@@ -73,7 +73,7 @@
 
 ## 📫 Connect With Me
 - LinkedIn: *www.linkedin.com/in/aashish-saini-11d12m2002y*  
-- Email: *aashishkhandelwal1570@gmail.com*  
+- Email: *aashishsainiwork1211@gmail.com*  
 
 ---
 
