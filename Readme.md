@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Aashish Saini
 
 ## 🚀 About Me
-💻 Passionate about Data Analytics and DevOps  
+💻 Passionate about Data Analytics, Data Engineering and Automation.  
 📊 I enjoy transforming raw data into meaningful insights  
-🧠 Strong interest in problem solving  
-🌱 Continuously learning and exploring new technologies  
+🧠 Interest in problem-solving
+🌱 Continuously learning and exploring new tools and technologies  
 
 ---
 
@@ -25,22 +25,29 @@
 - BeautifulSoup
 ## Concepts
 - Data Gathering
-- Data Accessing and Assessing  
+- Data Accessing and Assessing
+- Data Wrangling
+- Data Validation
+- Data Governance
+- ETL/ELT Pipelines
 - Exploratory Data Analysis (EDA)  
-- Descriptive and Inferential Statistics
-- Probability Theory
+- Descriptive and Inferential Statistics( Hypothesis testing and A/B testing )
+- Probability Theory ( Bayesian Probabilistic Model of Predictability and Causal inference )
 
 ## Tools
 - Excel
 - PowerBi
 - Tableau
+- Alteryx ( ETL/ELT Automation )
 
 ### 🧩 Computer Science Fundamentals
 - Object-Oriented Programming (OOPs)  
-- Data Structures & Algorithms 
+- Data Structures & Algorithms
+- Database and Management System ( DBMS )
 
-### 🗄️ Database
-- SQL
+### 🗄️ Databases
+- Microsoft SQL server
+- MySQL Workbench
 
 ### 🖥️ Operating Systems & Tools
 - Windows
@@ -50,23 +57,25 @@
 ### ⚙️ DevOps & Version Control
 - Git  
 - GitHub  
-- DevOps Fundamentals  
+- DevOps Fundamentals (SDLC, Jira, Jenkins, Docker) 
 
 ---
 
 ## 📈 What I Do
 - Perform data cleaning, preprocessing and analysis  
-- Build data visualizations and dashboards  
-- Solve algorithmic problems  
-- Work with Windows and Linux-based development environments  
+- Build data visualizations and dashboards
+- Develop end-to-end data pipelines for Data Ingestion, Data Wrangling, Data Transformation to Data Loading 
+- Solve algorithmic problems for better problem solviing approach and mindset
+- Work with Windows and Linux-based development environments
+- Automate repetitive Data tasks using Excel Macros and VBA
 - Automate workflows using shell scripting ( Cron Jobs )
 
 ---
 
 ## 🌟 Current Focus
-- Advanced Data Analytics  
+- Advanced Data Analytics
+- Automation and Data Pipelining 
 - Machine Learning Fundamentals  
-- DevOps and Automation  
 - Building Real-World Projects  
 
 ---
