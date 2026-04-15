@@ -12,9 +12,7 @@
 
 ### 👨‍💻 Programming Languages
 - Python
-- HTML
-- CSS
-- Javascript
+- Javascript (JSON)
 
 ### 📊 Data Analytics & Visualization
 ## Libraries
@@ -23,16 +21,20 @@
 - Matplotlib  
 - Seaborn
 - BeautifulSoup
+- requests ( REST API and HTTP methods )
 ## Concepts
 - Data Gathering
 - Data Accessing and Assessing
 - Data Wrangling
 - Data Validation
+- Data Reporting
+- Data Visualization
 - Data Governance
 - ETL/ELT Pipelines
 - Exploratory Data Analysis (EDA)  
 - Descriptive and Inferential Statistics( Hypothesis testing and A/B testing )
-- Probability Theory ( Bayesian Probabilistic Model of Predictability and Causal inference )
+- Probability Theory ( Bayesian Probabilistic Model of Predictability )
+- Causal inference 
 
 ## Tools
 - Excel
@@ -41,12 +43,12 @@
 - Alteryx ( ETL/ELT Automation )
 
 ### 🧩 Computer Science Fundamentals
-- Object-Oriented Programming (OOPs)  
+- Object-Oriented Programming (OOP)  
 - Data Structures & Algorithms
 - Database and Management System ( DBMS )
 
 ### 🗄️ Databases
-- Microsoft SQL server
+- Microsoft SQL server ( SSMS )
 - MySQL Workbench
 
 ### 🖥️ Operating Systems & Tools
@@ -57,7 +59,7 @@
 ### ⚙️ DevOps & Version Control
 - Git  
 - GitHub  
-- DevOps Fundamentals (SDLC, Jira, Jenkins, Docker) 
+- DevOps Fundamentals (SDLC and Jira) 
 
 ---
 
